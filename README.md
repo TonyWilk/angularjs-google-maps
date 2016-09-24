@@ -12,8 +12,10 @@ GoogleMap AngularJS Directive
 
 IMPORTANT NOTICE
 -----------------
- - Implementation for Angular2 version has been started at [https://github.com/ng2-ui/ng2-map](https://github.com/ng2-ui/ng2-map)
-
+ This is a fork of [the original module](https://github.com/allenhwkim/angularjs-google-maps)
+ created only to submit a pull request for an issue I came across.
+ Refer to the original for the latest version.
+ 
 Background
 -----------------
 There is already [one](https://github.com/nlaplante/angular-google-maps) for this. However, I found myself doing totally different approach than the existing one, such as;
